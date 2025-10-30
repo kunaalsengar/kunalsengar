@@ -1,0 +1,5 @@
+reomte_theme: pages-themes/time-machine@v0.2.0
+plugins:
+-jekyll-remote-theme
+title: [your name]
+description: [Turning Data into insights]
